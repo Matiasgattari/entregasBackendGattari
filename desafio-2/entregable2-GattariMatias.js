@@ -177,3 +177,7 @@ class ProductManager {
 // console.log("producto eliminado",productManager.getProductById(3));
 
 
+// module.exports = ProductManager;
+
+
+export default ProductManager;

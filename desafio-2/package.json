@@ -1,0 +1,20 @@
+{
+  "name": "desafiosbackendgattari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entregable2-GattariMatias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Matiasgattari/entregasBackendGattari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matiasgattari/entregasBackendGattari/issues"
+  },
+  "homepage": "https://github.com/Matiasgattari/entregasBackendGattari#readme"
+}
